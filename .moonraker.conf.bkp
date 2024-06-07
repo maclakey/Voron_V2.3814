@@ -110,6 +110,7 @@ subscriptions =
 
 [mmu_server]
 enable_file_preprocessor = True
+enable_toolchange_next_pos = True
 
 [update_manager crowsnest]
 type = git_repo
